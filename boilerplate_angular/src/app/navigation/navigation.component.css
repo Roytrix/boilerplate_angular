@@ -1,0 +1,23 @@
+
+.sidenav-container {
+  height: 100%;
+}
+
+mat-sidenav {
+  width: 150px;
+  background-color: #f18d29;
+}
+
+mat-sidenav-content {
+  padding: 20px;
+}
+
+.icon-text {
+  display: flex;
+  align-items: center;
+}
+
+.icon-text mat-icon {
+  margin-right: 8px; /* Adjust the spacing between the icon and text */
+  margin-bottom: 3px; /* Adjust the spacing between the icon and text */
+}
